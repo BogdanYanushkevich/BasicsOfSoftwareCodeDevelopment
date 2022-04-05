@@ -1,5 +1,6 @@
 # BasicsOfSoftwareCodeDevelopment
 Tasks of the first module
+
 Все условия заданий продублированы в виде комментариев внутри решений.
 
 Линейные программы
